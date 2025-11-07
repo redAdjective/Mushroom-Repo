@@ -1,0 +1,96 @@
+[+] Containers:
+ |- [+] Container: /Game/MushoomPlanet
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0DE8CD464936E8AAABB600AB0975CB34 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD7178040BCEC9F02_1438847935 Label:Wall_Door_400x300 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=380.000 Y=170.000 Z=330.000), Max=(X=780.000 Y=190.000 Z=630.000) RuntimeBounds:IsValid=true, Min=(X=380.000 Y=170.000 Z=330.000), Max=(X=780.000 Y=190.000 Z=630.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:37E3DB314EE9F8BC0C5A7BA5E799C44C BaseClass:/Game/StarterContent/Architecture/Test2_BP.Test2_BP_C NativeClass:/Script/Engine.Actor Name:Test2_BP_C_UAID_4CD7178040BCED9F02_1233607112 Label:Test2_BP SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=327.741 Y=-1148.412 Z=71.200), Max=(X=1190.494 Y=431.710 Z=319.461) RuntimeBounds:IsValid=true, Min=(X=327.741 Y=-1148.412 Z=71.200), Max=(X=1190.494 Y=431.710 Z=319.461) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:7B63870744CE4AFA3F8DE3947FC7FF3C NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:99C1F1824540AD028F70CAB9F69018E0 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD7178040BCEC9F02_1224594936 Label:Wall_Door_400x300 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=400.000 Y=640.000 Z=160.000), Max=(X=600.000 Y=660.000 Z=460.000) RuntimeBounds:IsValid=true, Min=(X=400.000 Y=640.000 Z=160.000), Max=(X=600.000 Y=660.000 Z=460.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:9A7505784A940C3D93252A886A4FC913 NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_4CD7178040BCEC9F02_1845035935 Label:Body SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=410.462 Y=283.994 Z=201.750), Max=(X=649.537 Y=396.006 Z=358.189) RuntimeBounds:IsValid=true, Min=(X=410.462 Y=283.994 Z=201.750), Max=(X=649.537 Y=396.006 Z=358.189) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:9F220DAE4EA269189A61C3938D5E5FE7 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71780416AEA9F02_1584270583 Label:Pillar_50x500 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=365.000 Y=125.000 Z=270.000), Max=(X=415.000 Y=175.000 Z=770.000) RuntimeBounds:IsValid=true, Min=(X=365.000 Y=125.000 Z=270.000), Max=(X=415.000 Y=175.000 Z=770.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:F5D6A81E47F90AE8D8145B8CF1800016 NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_4CD71780416AE69F02_1226766882 Label:SpotLight SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1322.751 Y=-2454.551 Z=-4466.084), Max=(X=4000.280 Y=2868.480 Z=856.947) RuntimeBounds:IsValid=true, Min=(X=-1322.751 Y=-2454.551 Z=-4466.084), Max=(X=4000.280 Y=2868.480 Z=856.947) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0DE8CD464936E8AAABB600AB0975CB34 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD7178040BCEC9F02_1438847935 Label:Wall_Door_400x300 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=380.000 Y=170.000 Z=330.000), Max=(X=780.000 Y=190.000 Z=630.000) RuntimeBounds:IsValid=true, Min=(X=380.000 Y=170.000 Z=330.000), Max=(X=780.000 Y=190.000 Z=630.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:37E3DB314EE9F8BC0C5A7BA5E799C44C BaseClass:/Game/StarterContent/Architecture/Test2_BP.Test2_BP_C NativeClass:/Script/Engine.Actor Name:Test2_BP_C_UAID_4CD7178040BCED9F02_1233607112 Label:Test2_BP SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=327.741 Y=-1148.412 Z=71.200), Max=(X=1190.494 Y=431.710 Z=319.461) RuntimeBounds:IsValid=true, Min=(X=327.741 Y=-1148.412 Z=71.200), Max=(X=1190.494 Y=431.710 Z=319.461) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:7B63870744CE4AFA3F8DE3947FC7FF3C NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:99C1F1824540AD028F70CAB9F69018E0 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD7178040BCEC9F02_1224594936 Label:Wall_Door_400x300 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=400.000 Y=640.000 Z=160.000), Max=(X=600.000 Y=660.000 Z=460.000) RuntimeBounds:IsValid=true, Min=(X=400.000 Y=640.000 Z=160.000), Max=(X=600.000 Y=660.000 Z=460.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:9A7505784A940C3D93252A886A4FC913 NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_4CD7178040BCEC9F02_1845035935 Label:Body SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=410.462 Y=283.994 Z=201.750), Max=(X=649.537 Y=396.006 Z=358.189) RuntimeBounds:IsValid=true, Min=(X=410.462 Y=283.994 Z=201.750), Max=(X=649.537 Y=396.006 Z=358.189) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:9F220DAE4EA269189A61C3938D5E5FE7 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_4CD71780416AEA9F02_1584270583 Label:Pillar_50x500 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=365.000 Y=125.000 Z=270.000), Max=(X=415.000 Y=175.000 Z=770.000) RuntimeBounds:IsValid=true, Min=(X=365.000 Y=125.000 Z=270.000), Max=(X=415.000 Y=175.000 Z=770.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:F5D6A81E47F90AE8D8145B8CF1800016 NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_4CD71780416AE69F02_1226766882 Label:SpotLight SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1322.751 Y=-2454.551 Z=-4466.084), Max=(X=4000.280 Y=2868.480 Z=856.947) RuntimeBounds:IsValid=true, Min=(X=-1322.751 Y=-2454.551 Z=-4466.084), Max=(X=4000.280 Y=2868.480 Z=856.947) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1322.751 Y=-2454.551 Z=-4466.084), Max=(X=4000.280 Y=2868.480 Z=856.947)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/MushoomPlanet
+----------------------------------------------------------------------------------------------------------------
+MushoomPlanet - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MushoomPlanet Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Game/MushoomPlanet.MushoomPlanet:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/MushoomPlanet/6/EL/65ULYBUZALRN875VSGR9IT
+
+----------------------------------------------------------------------------------------------------------------
+MushoomPlanet - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell MushoomPlanet_MainPartition_L0_X0_Y0 (B23XU2STVNVQWE9KK1MFGVVTG)
+ |- Actor Count: 5
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-0.000), Max=(X=4000.280 Y=2868.480 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=12800.000 Y=12800.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/MushoomPlanet.MushoomPlanet:PersistentLevel.StaticMeshActor_UAID_4CD7178040BCEC9F02_1438847935
+ |   |-         Package: /Game/__ExternalActors__/MushoomPlanet/E/JI/ROH8QHCHA8JSKK1USQQ4NU
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0DE8CD464936E8AAABB600AB0975CB34
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/MushoomPlanet.MushoomPlanet:PersistentLevel.StaticMeshActor_UAID_4CD7178040BCEC9F02_1224594936
+ |   |-         Package: /Game/__ExternalActors__/MushoomPlanet/E/X9/ITH70C8SG2I2TQ3QOP327H
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 99C1F1824540AD028F70CAB9F69018E0
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/MushoomPlanet.MushoomPlanet:PersistentLevel.SkeletalMeshActor_UAID_4CD7178040BCEC9F02_1845035935
+ |   |-         Package: /Game/__ExternalActors__/MushoomPlanet/9/DY/J95E2HYCV1AUXX4PKDSQXU
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9A7505784A940C3D93252A886A4FC913
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/MushoomPlanet.MushoomPlanet:PersistentLevel.StaticMeshActor_UAID_4CD71780416AEA9F02_1584270583
+ |   |-         Package: /Game/__ExternalActors__/MushoomPlanet/3/VX/W3AA8ZJFF3N9Y7LO6Y9RIA
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9F220DAE4EA269189A61C3938D5E5FE7
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/MushoomPlanet.MushoomPlanet:PersistentLevel.SpotLight_UAID_4CD71780416AE69F02_1226766882
+ |   |-         Package: /Game/__ExternalActors__/MushoomPlanet/0/QC/Y3TMW9Z3K7EARF480C5AD7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F5D6A81E47F90AE8D8145B8CF1800016
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell MushoomPlanet_MainPartition_L0_X0_Y-1 (EATBPZV9A4WJT1ZFNAKGZGTXI)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=327.741 Y=-1148.412 Z=0.000), Max=(X=1190.494 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-12800.000 Z=0.000), Max=(X=12800.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/MushoomPlanet.MushoomPlanet:PersistentLevel.Test2_BP_C_UAID_4CD7178040BCED9F02_1233607112
+ |   |-         Package: /Game/__ExternalActors__/MushoomPlanet/2/UI/4ZV6NBX4Z70JTLI83I7DSO
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 37E3DB314EE9F8BC0C5A7BA5E799C44C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
